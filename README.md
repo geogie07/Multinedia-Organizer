@@ -1,1 +1,1 @@
-# Multinedia-Organizer
+# Multimedia-Organizer
