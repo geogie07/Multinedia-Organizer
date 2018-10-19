@@ -1,9 +1,9 @@
-# Update 0.0  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.10.2018
-Software Designing:
+## Update 0.0  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.10.2018
+#### Software Designing:
 Our team started the project with a quick brainstormed about the topic of our project.
 After the decision was made we thought about our apps criteria using the moscow model and started with the SRS document.
 
-# Update 0.1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18.10.2018
+## Update 0.1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18.10.2018
 #### Software Designing:
 We finished the SRS Document, which is containing our criterias subdivided with the MoSCoW Method, the Use Case Diagram and our functinal/nonfunctional requirements. 
 We started with the HLD document by starting with some of the UML Diagrams.
