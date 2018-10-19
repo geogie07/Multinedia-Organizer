@@ -1,4 +1,4 @@
-# Update 0.1     ## 18.10.2018
+# Update 0.1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.10.2018
 #### Software Designing:
 We finished the SRS Document, which is containing our criterias subdivided with the MoSCoW Method, the Use Case Diagram and our functinal/nonfunctional requirements. 
 We started with the HLD document by starting with some of the UML Diagrams.
