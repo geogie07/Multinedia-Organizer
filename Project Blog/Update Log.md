@@ -7,6 +7,7 @@
 #### Software Designing:
 - We finished the SRS Document, which is containing our criterias subdivided with the MoSCoW Method, the Use Case Diagram and our functinal/nonfunctional requirements. 
 - We started with the HLD document by starting with some of the UML Diagrams.
+
 #### Programm:
 - We started with figuring out a Layout by brainstorming about it.
 - We can already add new items, trace and change the progress and decide between adding a new movie or series item.
@@ -15,6 +16,7 @@
 ## Update 0.2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29.10.2018
 #### Software Designing:
 - We finished drawing the UML-Diagrams for the HLD document by hand and with Visio. We worked on the HLD document and are now nearly finished with it.
+
 #### Programm:
 - With the program it is now possible to read (input) and auto-save (output) the OMDb movie data file. 
 - In addition the program makes an automatic generation of instances from the OMDb movie data file. 
