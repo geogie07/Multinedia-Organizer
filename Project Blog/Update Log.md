@@ -22,5 +22,5 @@
 - In addition the program makes an automatic generation of instances from the OMDb movie data file. 
 - An instance contains all information about one movie or series. 
 - By now the OMDb can be searched by IMDb ID and the UI instance is being filled by automatic generation with the fitting OMDb instance. 
--This week we completed the pre-alpha of the UI. 
+- This week we completed the pre-alpha of the UI. 
 - It is also possible by now to highlight an instance by moving the cursor on it.
