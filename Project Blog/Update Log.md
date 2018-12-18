@@ -44,4 +44,5 @@
 - The items can be assigned to a watchlist and category.
 - The attributes of a movie or series item are generated dynamically from OMDb, including pictures.
 - Some of those attributes: links, labels, progress bars and check boxes can be edited, deleted and added manually.
-- Pictures can be edited or added by changing or adding a link to an URL to a 300x450 pixels picture. Generic items for e.g. books, games or calendars can be added and edited afterwards.
+- Pictures can be edited or added by changing or adding a link to an URL to a 300x450 pixels picture.
+-  Generic items for e.g. books, games or calendars can be added and edited afterwards.
