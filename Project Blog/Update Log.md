@@ -50,12 +50,7 @@
 
 ## Update 0.7  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30.12.2018
 #### Programm:
-- Bugfixing
-- Implementierung der progressbars und category Rahmen
-- Implementierung des "Missing Key" interfaces
-- Implementierung des Scrolling der Watchlist-Tableiste	
-- Implementierung des Scrolling innerhalb von einem geladenen Item
-
-
-
-
+- implementation of the progressbars and the category frames
+- implementation of the "missing key" interface
+- implementation of the scrolling for the watchlist-tabs
+- implementation of the scrolling within each loaded item
