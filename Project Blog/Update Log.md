@@ -46,3 +46,16 @@
 - Some of those attributes: links, labels, progress bars and check boxes can be edited, deleted and added manually.
 - Pictures can be edited or added by changing or adding a link to an URL to a 300x450 pixels picture.
 - Generic items for e.g. books, games or calendars can be created and edited afterwards.
+
+
+## Update 0.7  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30.12.2018
+#### Programm:
+- Bugfixing
+- Implementierung der progressbars und category Rahmen
+- Implementierung des "Missing Key" interfaces
+- Implementierung des Scrolling der Watchlist-Tableiste	
+- Implementierung des Scrolling innerhalb von einem geladenen Item
+
+
+
+
